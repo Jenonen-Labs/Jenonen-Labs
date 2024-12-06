@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C#, JavaScript, Ruby, and HTML/CSS.
 - 💞️ I’m looking to collaborate on musical composition, mods, and other projects I spontaneously create.
 - 📫 How to reach me: jwintemberg@live.com | jwintemberg@gmail.com
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: Blaze the Cat is the best!
 
 <!---

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jenonen-Labs!
-- 👀 I’m composing music and modding games. Musician @ Pokéforce - forum.pokeforce.org
+- 👀 I’m composing music and modding games. Musician @ PokéForce: https://forum.pokeforce.org
 - 🌱 I’m currently learning C and HTML/CSS.
 - 💞️ I’m looking to collaborate on musical composition, mods, and other projects.
 - 📫 How to reach me: jwintemberg@live.com | jwintemberg@gmail.com
